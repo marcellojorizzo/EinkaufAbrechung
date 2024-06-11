@@ -331,7 +331,7 @@ Sub Main()
         AllowDeletingColumns:=True, _
         AllowDeletingRows:=True, AllowSorting:=True, AllowFiltering:=True, _
         AllowUsingPivotTables:=True
-'''''''''''''''''''''''''' Name des Patienten eingeben '''''''''''''''''''''''
+'''''''''''''''''''''''''' Name  eingeben ''''''''''''''''''''''''''''''''''''
 '''''''''''' Curser auf Zelle F2 setzen und aktive Zelle weiss faerben '''''''
         Worksheets("Abrechnung").Activate
         Worksheets("Abrechnung").Range(NAME).Activate
