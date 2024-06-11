@@ -359,7 +359,7 @@ Sub Main()
         
 ''''''''''''''''' Geldbetrag fuer Einkauf eingeben '''''''''''''''''''''''''''
 '''''''''''''''' MengeE Eingabe Meldung: Geld Betrag '''''''''''''''''''''''''
-       BetragE = "Geld Betrag fuer Einkauf eingeben"
+       BetragE = "Geldbetrag fuer Einkauf eingeben"
         
 '''''''''''''''''' InputBox Titel definieren '''''''''''''''''''''''''''''''''
         BetragT = "Geldbetrag"
