@@ -1,5 +1,9 @@
 Attribute VB_Name = "Modul1"
 '*****************************************************************************
+'' Filename: EinkaufAbrechung.xlsm
+'' Author: Marcello Jorizzo
+'' Language: German
+'
 '
 '               Programm fuer die Abrechung der Einkaeufe
 '       ======================================================
