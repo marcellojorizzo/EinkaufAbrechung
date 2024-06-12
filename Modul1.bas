@@ -1,11 +1,13 @@
 Attribute VB_Name = "Modul1"
 '*****************************************************************************
-'' Filename: EinkaufAbrechung.xlsm
-'' Author: Marcello Jorizzo
-'' Language: German
+' Filename: EinkaufAbrechung.xlsm
+' Author: Marcello Jorizzo
+' Language: German
+' Created:        August 07, 2021
+' Last Modified:  July 12, 2024
+'******************************************************************************
 '
-'
-'               Programm fuer die Abrechung der Einkaeufe
+'               Programm fuer die Abrechung vom Einkaeufen
 '       ======================================================
 '
 '   Es wird eine leere Liste Erzeugt.
@@ -13,7 +15,7 @@ Attribute VB_Name = "Modul1"
 '   anschlieﬂend der Betrag der fuer den Einkauf zur
 '   Verfuehgung steht.
 '   Das Programm sucht die naechste leere Zeile. Dann muss die Artikel Menge
-'   eingegben werden. Dann der Stueckpreis des Artikels. Danach wird
+'   eingegben werden. Dann der Stueck preis des Artikels. Danach wird
 '   abgefragt ob noch weitere Artikel eingegeben werden sollen. Es folgt die
 '   Abfrage nach dem Druckbefehl.
 '
